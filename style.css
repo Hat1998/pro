@@ -1,0 +1,81 @@
+/*container of the body*/
+img{
+    
+}
+.body1{
+    
+    
+    background-image: url(background-image.png) ;
+    background-repeat: no-repeat;
+    background-size:1800px ;   
+}
+
+.container{
+
+    width: 1300px;
+    margin: auto;
+    margin-top: 30px;
+}
+/* the header*/
+.header{
+}
+.img-div{
+    width: 20%;
+    float: left;
+  
+
+}
+
+
+.text-div{
+    width: 80%;
+    float: left;
+  
+
+}
+table{
+    margin-top: 40px;
+    width: 100%;
+}
+td{
+    width: 50%;
+
+}
+.but{
+    text-align: center;
+
+}
+.but .button-element{
+    border: none;
+    background-color: chocolate;
+    padding: 10px;
+    border-radius: 4px;
+    position: relative;
+    left: ;
+    
+}
+
+/*concactMe page Style*/
+.body2{
+    height: 400px;
+    background-image: url(background-image.png) ;
+    background-repeat: no-repeat;
+    background-size:1500px ;   
+}
+form{
+    text-align: center;
+    margin:200px auto;
+}
+form .text-input{
+    height: 25px;
+    width: 500px;
+    border-radius: 3px;
+    border: none;
+}
+form  #t{
+    height: 200px;
+}
+
+
+
+
